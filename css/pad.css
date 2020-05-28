@@ -1,0 +1,56 @@
+@charset "utf-8";
+.head_ipt{
+    width: 241px;
+    height: 24px;
+    position: relative;
+}
+.head_ipt input{
+    width: calc(100% - 35px);
+    height: 100%;
+    border:1px solid slategrey;
+    padding: 0 25px 0 10px;
+}
+.head_ipt label{
+    position: absolute;
+    right:0; top:0;
+}
+.nav li{
+    float: left;
+    background-color: #fff;
+    margin-right: 30px;
+    position: relative;
+   
+}
+.nav li a{
+    color: black;
+}
+
+.nav li div{
+    position: absolute;
+    left: 0; top: 40px;
+    background-color: #fff;
+ 
+}
+
+.banner{
+    width: 100%;
+}
+.banner img{
+    width: 100%;
+}
+
+
+.pad_show{
+    display: block;
+}
+.pad_hide{
+    display: none;
+}
+
+
+
+.gWidth{
+    padding-left: 13px;
+    padding-right: 13px;
+    box-sizing: border-box;
+}

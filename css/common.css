@@ -1,0 +1,56 @@
+@charset "utf-8";
+.header{
+    height: 53px;
+    line-height: 53px;
+}
+.header h1{
+    padding-top: 16px;
+    height: 37px;
+}
+.header .a1{
+    margin-right: 19px;
+}
+.header p a{
+    color: #1570A5;
+}
+.nav li{
+    
+    line-height: 40px;
+    background-color: #1570A5;
+    margin-bottom: 1px;
+    
+}
+.nav li div{
+    display: none;
+}
+.nav li div p{
+    margin-left: 15px;
+    height: 32px;
+    line-height: 32px;
+}
+.nav li a{
+    color: #fff;
+    background: url(../img/tb.jpg) no-repeat right center;
+    padding-right: 15px;
+    margin-left: 12px;
+}
+
+
+
+
+
+.phone_show{
+    display: block;
+}
+.phone_hide{
+    display: none;
+}
+
+
+
+
+.gWidth{
+    padding-left: 6px;
+    padding-right: 6px;
+    box-sizing: border-box;
+}
